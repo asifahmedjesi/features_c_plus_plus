@@ -1,2 +1,2 @@
-# learning_c_plus_plus
-Learning C++ program language
+# features_c_plus_plus
+Examples for C++ features
