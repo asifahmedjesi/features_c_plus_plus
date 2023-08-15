@@ -1,2 +1,2 @@
-# features_c_plus_plus
-Examples for C++ features
+# C++
+Examples of C++ features
